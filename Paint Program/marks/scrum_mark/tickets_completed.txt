@@ -1,5 +1,0 @@
-# COMPLETED USER STORIES/BUGS BELOW ###########################################
-USER STORY 1 : kanlikil
-USER STORY 5 : kanlikil
-USER Story 9 : zhusally
-

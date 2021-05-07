@@ -1,9 +1,0 @@
-Total: 61.8/100
-	Code Quality: 41/60 (worth 90% of total)
-		Code Functionality: 18/23
-		Code Simplicity: 10/12
-		Architecture: 8/12
-		Documentation: 1/4
-		Git: 2/4
-		Scrum: 2/5
-	Additional Features: 2/33 (worth 10% of total)
