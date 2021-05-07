@@ -1,0 +1,96 @@
+# Fill in, commit and push each day.
+# Group Member: Sally Zhu
+Oct 28, 2018
+	Yesterday :
+	Today     : did nothing today
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     :Finish the lab and cloned the Assignment2 repo.
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday :cloned the Assignment2 repo
+	Today     :I fill in my contact informations in members.txt.
+	Obstacles :
+
+Oct 31, 2018
+	Yesterday :
+	Today     :scheduled meeting
+	Obstacles :
+
+Nov 1, 2018
+	Yesterday :meeting
+	Today     :did nothing
+	Obstacles :
+
+Nov 2, 2018
+	Yesterday :
+	Today     :did nothing
+	Obstacles :
+
+Nov 3, 2018
+	Yesterday :
+	Today     :did nothing
+	Obstacles :
+
+Nov 4, 2018
+	Yesterday :
+	Today     :did nothing
+	Obstacles :
+
+Nov 5, 2018
+	Yesterday :
+	Today     :did nothing
+	Obstacles :
+
+Nov 6, 2018
+	Yesterday :
+	Today     :look at the design patterns.
+	Obstacles :Need to figure out out which to use.
+
+Nov 7, 2018
+	Yesterday :check design patterns.
+	Today     :scheduled meeting
+	Obstacles :
+
+Nov 8, 2018
+	Yesterday :meeting
+	Today     :Start to look at Oval and square implementation.
+	Obstacles :
+
+Nov 9, 2018
+	Yesterday :
+	Today     :scheduled meeting
+	Obstacles :Create new branch BUG1, find images for the buttons, start BUG1.
+
+Nov 10, 2018
+	Yesterday :meeting
+	Today     :meeting
+	Obstacles :push and merge the branch BUG1 to master. Work on bug2.
+	
+Nov 11, 2018
+	Yesterday :meeting
+	Today     :Work on Oval's implementation.
+	Obstacles :Need to change design pattern first.
+	
+Nov 12, 2018
+	Yesterday :work on oval's implementation.
+	Today     :meeting
+	Obstacles :Finish Bug5 and merge to master branch. The dailyscrum is cleaned due to some merge conflict?
+
+Nov 13, 2018
+	Yesterday :meeting
+	Today     :meeting
+	Obstacles :Finish Oval according to the new design pattern. Work one square implementation.
+
+Nov 14, 2018
+	Yesterday :meeting
+	Today     :meeting after 236 test
+	Obstacles :Push and merge the new branch USER STORY 9(Oval).
+
+Nov 15, 2018
+	Yesterday :meeting
+	Today     :meeting 
+	Obstacles :Finish all the javadocs. Look at sqaure.

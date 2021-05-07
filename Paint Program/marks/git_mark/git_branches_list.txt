@@ -1,0 +1,21 @@
+  origin/BUG1
+  origin/BUG3
+  origin/BUG4
+  origin/BUG5
+  origin/BUG7
+  origin/BUG9
+  origin/BUG_2
+  origin/HEAD -> origin/master
+  origin/Member_LiRui
+  origin/USER_Story_10
+  origin/USER_Story_11
+  origin/UserStory1
+  origin/UserStory2
+  origin/UserStory3
+  origin/UserStory4
+  origin/UserStory5
+  origin/UserStory6
+  origin/UserStory7
+  origin/UserStory8
+  origin/UserStory9
+  origin/master

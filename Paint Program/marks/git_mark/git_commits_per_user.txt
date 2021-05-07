@@ -1,0 +1,82 @@
+Pınar Kanlikilicer (22):
+      Added to members.txt
+      Scrum and Sprint Updated
+      UserStory1 completed
+      Updated the dailyScrum File
+      Updated the Scrum File
+      Updated Scrum File (kanlikil)
+      Updated daily Scrum File (kanlikil)
+      Started creating ColorChooserPanel
+      Added some features to Color Chooser
+      ColorChooserPanel changed
+      Changed ColorChooserPanel
+      Implemented new features for color chooser
+      Changed daily Scrum File
+      Changed DailyScrum file
+      Edit the DailyScrum File
+      Finish BUG3
+      Changed Daily Scrum file and added the BUG3 to sprint
+      Worked on Polyline
+      Finished implementing Polyline
+      Fixed a bug in EraserStrategy
+      Fixed a bug in polyline
+      Daily Scrum File and Assignment2 Finished
+
+LiRui (17):
+      contact information
+      i claim userstory2
+      daily scrum update
+      daily update2
+      daily update3
+      memberLiRui 11/7
+      UserStory2
+      UserStroy3
+      UserStory4
+      UserStory6
+      UserStory7
+      dailyupdate4
+      BUG4
+      BUG4
+      BUG4
+      BUG7
+      scrumUpdate
+
+Sally Zhu (17):
+      message
+      daily scrumMeeting
+      dailyscrummeeting
+      dailyscrumMeeting
+      zhusally bug1
+      daily scrum update
+      update bug1
+      # WARNING: head commit changed in the meantime
+      update dailyscrum
+      dailyscrum and userstory 9
+      UserStory 9 zhusally
+      dailyscrum update
+      javadoc
+      BUG zhusally
+      javadoc
+      javadoc
+      javadoc and dailyscrum
+
+zhan5243 (11):
+      test
+      test2
+      daily meeting
+      name
+      daily nov5
+      daily update
+      daily update
+      BUG2
+      user story 10
+      user story 11
+      final
+
+pinarkanlikilicer (2):
+      testing merge conflict
+      deleted test
+
+Arnold Rosenbloom (1):
+      Added Assignment2
+
